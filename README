@@ -1,5 +1,5 @@
 App : a bundle of helpers
 
 Helpers:
-	1) tracking-helper: parse email for tracking information and provide notifications. implemented : 10%
-	2) scheduling-helper: parse email for scheduling informations. implemented : 0%
+	1) tracking-helper: parse email for tracking information and provide notifications.
+	2) scheduling-helper: parse email for scheduling informations.
